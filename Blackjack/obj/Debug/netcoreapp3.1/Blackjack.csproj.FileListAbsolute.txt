@@ -1,0 +1,26 @@
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\bin\Debug\netcoreapp3.1\Blackjack.exe
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\bin\Debug\netcoreapp3.1\Blackjack.deps.json
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.json
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.dev.json
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\bin\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\bin\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\obj\Debug\netcoreapp3.1\Blackjack.csprojAssemblyReference.cache
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\obj\Debug\netcoreapp3.1\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\obj\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\obj\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Menu działań\obj\Debug\netcoreapp3.1\Blackjack.genruntimeconfig.cache
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.exe
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.deps.json
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.json
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.dev.json
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csprojAssemblyReference.cache
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Kamyk\Desktop\studia\Programowanie komputerów\Lab\project\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.genruntimeconfig.cache

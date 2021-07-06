@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kamyk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kamyk\\.nuget\\packages"
+    ]
+  }
+}

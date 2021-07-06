@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blackjack", "Blackjack.csproj", "{EDF33476-C6C3-411D-99D8-71CE8EA46E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkin", "..\checkin\checkin.csproj", "{87FC8C40-1F20-47D8-86AF-D904ECAFCF60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF33476-C6C3-411D-99D8-71CE8EA46E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF33476-C6C3-411D-99D8-71CE8EA46E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF33476-C6C3-411D-99D8-71CE8EA46E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF33476-C6C3-411D-99D8-71CE8EA46E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FC8C40-1F20-47D8-86AF-D904ECAFCF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FC8C40-1F20-47D8-86AF-D904ECAFCF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FC8C40-1F20-47D8-86AF-D904ECAFCF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FC8C40-1F20-47D8-86AF-D904ECAFCF60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEF1D21-B6BF-4697-B497-776E786F5D37}
+	EndGlobalSection
+EndGlobal
